@@ -13,7 +13,7 @@ function AboutCard() {
             <br />
             I am currently employed as a software developer at Devzz Tech.
             <br />
-            I have completed Software Engineering in 2022 from Sindh University of Jamshoro.
+            I have completed BS Software Engineering from Sindh University of Jamshoro In 2022.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
