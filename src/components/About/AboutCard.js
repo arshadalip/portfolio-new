@@ -9,9 +9,9 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Arshad Ali </span>
-            from <span className="purple"> Dadu, Pakistan.</span>
+            from <span className="purple"> Shahra-e-Faisal Karachi , Pakistan.</span>
             <br />
-            I am currently employed as a software developer at Devzz Tech.
+            I am currently employed as a Web developer at Devzz Tech.
             <br />
             I have completed BS Software Engineering from Sindh University of Jamshoro In 2022.
             <br />
