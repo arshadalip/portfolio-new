@@ -1,4 +1,4 @@
-import React, { useState, useEffect,createContext,useContext } from "react";
+import React, { useState, useEffect,createContext } from "react";
 import Preloader from "../src/components/Pre";
 import Navbar from "./components/Navbar";
 import Home from "./components/Home/Home";
@@ -19,8 +19,8 @@ import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
   const [load, upadateLoad] = useState(true);
-  var name = 'Arshad';
-  const UserContext =createContext('Arshad');
+  // var name = 'Arshad';
+  // const UserContext =createContext('Arshad');
 
   useEffect(() => {
     const timer = setTimeout(() => {
